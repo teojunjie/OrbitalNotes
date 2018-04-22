@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "979474596128",
+    "firebase_url": "https://oribtalnotes2018.firebaseio.com",
+    "project_id": "oribtalnotes2018",
+    "storage_bucket": "oribtalnotes2018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979474596128:android:1fdbb64b8d89fb61",
+        "android_client_info": {
+          "package_name": "com.example.orbitalnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979474596128-kvd576i4ui51728pj5l5jiutvfakoksg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYyo8125H_tJ2MBxCWCk4fKhz3TV-1Hyc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
